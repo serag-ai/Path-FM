@@ -29,16 +29,16 @@ This repository contains the code and training/inference scripts used for benchm
 </p>
 
 ## Foundation models
-• Hibou [link](https://huggingface.co/histai/hibou-b)
-• Phikon-v2 [link](https://huggingface.co/owkin/phikon-v2)
-• GigaPath [link](https://github.com/prov-gigapath/prov-gigapath)
-• PathOrchestra [link](https://huggingface.co/AI4Pathology/PathOrchestra)
-• UNI2-h [link](https://huggingface.co/MahmoodLab/UNI2-h)
-• PLIP [link](https://github.com/pathologyfoundation/plip)
-• CONCH [link](https://github.com/mahmoodlab/CONCH)
-• RedDino [link](https://github.com/Snarci/RedDino)
-• DINOBloom [link](https://github.com/marrlab/DinoBloom)
-• HistoEncoder (Small, Medium) [link](https://github.com/jopo666/HistoEncoder)
+- Hibou [[link]](https://huggingface.co/histai/hibou-b)
+- Phikon-v2 [[link]](https://huggingface.co/owkin/phikon-v2)
+- GigaPath [[link]](https://github.com/prov-gigapath/prov-gigapath)
+- PathOrchestra [[link]](https://huggingface.co/AI4Pathology/PathOrchestra)
+- UNI2-h [[link]](https://huggingface.co/MahmoodLab/UNI2-h)
+- PLIP [[link]](https://github.com/pathologyfoundation/plip)
+- CONCH [[link]]](https://github.com/mahmoodlab/CONCH)
+- RedDino [[link]](https://github.com/Snarci/RedDino)
+- DINOBloom [[link]](https://github.com/marrlab/DinoBloom)
+- HistoEncoder (Small, Medium) [[link]](https://github.com/jopo666/HistoEncoder)
 
 ## Deep learning models
 

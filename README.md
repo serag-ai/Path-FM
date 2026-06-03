@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/Fig1.png" alt="Do Foundation Models Truly Outperform Domain-Specific Models? Evidence from Digital Pathology" width="100%">
+  <img src="Assets/Fig1.png" alt="Do Foundation Models Truly Outperform Domain-Specific Models? Evidence from Digital Pathology" width="100%">
 </p>
 
 <h1 align="center">Do Foundation Models Truly Outperform Domain-Specific Models? Evidence from Digital Pathology</h1>
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/xxx"><img src="https://img.shields.io/badge/ScienceDirect-View%20Paper-orange" alt="Paper"></a>
+  <a href="https://www.mdpi.com/xxxx"><img src="https://img.shields.io/badge/MDPI%20MAKE-View%20Paper-orange" alt="Paper"></a>
   <a href="https://huggingface.co/serag-ai"><img src="https://img.shields.io/badge/Hugging%20Face-Models-blue" alt="Models"></a>
   <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--4.0-brightgreen" alt="License: CC BY 4.0"></a>
 </p>
@@ -21,6 +21,12 @@ This repository contains the code and training/inference scripts used for benchm
 - **`patho-fm/Robustness-Check`** — Training FMs on a primary dataset and evaluating them on one/multiple external test datasets.
 - **`patho-fm/DL-models`** — Training/testing a consistent set of standard computer vision backbones from scratch.
 - **`assets/`** — Repository media.
+
+  The difference between the model adaptation strategies: Linear Probing (LP) vs. Last-Layer Fine-Tuning (LLFT) is illustrated in the following:
+
+<p align="center">
+  <img src="Assets/Fig2.png" alt="Comparison of Model Adaptation Strategies: Linear Probing (LP) vs. Last-Layer Fine-Tuning (LLFT)" width="100%">
+</p>
 
 ## Foundation models
 - ** Hematology **

@@ -35,18 +35,36 @@ This repository contains the code and training/inference scripts used for benchm
 - PathOrchestra [[link]](https://huggingface.co/AI4Pathology/PathOrchestra)
 - UNI2-h [[link]](https://huggingface.co/MahmoodLab/UNI2-h)
 - PLIP [[link]](https://github.com/pathologyfoundation/plip)
-- CONCH [[link]]](https://github.com/mahmoodlab/CONCH)
+- CONCH [[link]](https://github.com/mahmoodlab/CONCH)
 - RedDino [[link]](https://github.com/Snarci/RedDino)
 - DINOBloom [[link]](https://github.com/marrlab/DinoBloom)
 - HistoEncoder (Small, Medium) [[link]](https://github.com/jopo666/HistoEncoder)
 
 ## Deep learning models
+  • ResNet-50
+  • Vision Transformer 
+  • Swin Transformer 
+  • ConvNeXt-Base
+  • DenseNet-121
 
 ## Datasets
-- **`Hematology **`
-- **`Urology **`
-- **`Breast Cancer **`
 
+- **`Hematology `**
+  • Acute Lymphoblastic Leukemia (ALL) Dataset [[H1]](https://www.kaggle.com/datasets/mehradaria/leukemia) <br>
+  • Peripheral Blood Cell Morphology Dataset [[H2]](https://data.mendeley.com/datasets/snkd93bnjr/1) <br>
+  • High-Resolution White Blood Cell Datase [[H3]](https://springernature.figshare.com/articles/dataset/A_large-scale_high-resolution_WBC_image_dataset/22680517?file=40260787) <br>
+  • AML and Non-malignant Leukocyte Dataset (TCIA) [[H4]](https://www.cancerimagingarchive.net/collection/aml-cytomorphology_lmu/) <br>
+  
+- **`Urology `**
+  • P1 – SICAP-MIL [[P1]](https://github.com/jusiro/mil_histology) <br>
+  • CrowdGleason [[P2]](https://zenodo.org/records/14178894) <br>
+  • SICAPv2 [[P3]](https://data.mendeley.com/datasets/9xxm58dvs3/1) <br>
+- **`Breast Cancer`**
+  • BreakHis [[B1-B2]](https://www.kaggle.com/datasets/ambarish/breakhis) <br>
+  • Kaggle Breast Histopathology Image [[B3]](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) <br>
+  • Zenodo HER2 Breast Cancer Dataset [[B4]](https://zenodo.org/records/8383580) <br>
+
+  
 ## Citation
 
 If you use these scripts in your research, please cite:

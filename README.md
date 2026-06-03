@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.mdpi.com/xxxx"><img src="https://img.shields.io/badge/MDPI%20MAKE-View%20Paper-orange" alt="Paper"></a>
-  <a href="https://huggingface.co/serag-ai"><img src="https://img.shields.io/badge/Hugging%20Face-Models-blue" alt="Models"></a>
   <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--4.0-brightgreen" alt="License: CC BY 4.0"></a>
 </p>
 

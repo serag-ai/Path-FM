@@ -25,18 +25,27 @@ This repository contains the code and training/inference scripts used for benchm
   The difference between the model adaptation strategies: Linear Probing (LP) vs. Last-Layer Fine-Tuning (LLFT) is illustrated in the following:
 
 <p align="center">
-  <img src="Assets/Fig2.png" alt="Comparison of Model Adaptation Strategies: Linear Probing (LP) vs. Last-Layer Fine-Tuning (LLFT)" width="100%">
+  <img src="Assets/Fig2.png" alt="Comparison of Model Adaptation Strategies: Linear Probing (LP) vs. Last-Layer Fine-Tuning (LLFT)" width="90%">
 </p>
 
 ## Foundation models
-- ** Hematology **
-
+• Hibou [link](https://huggingface.co/histai/hibou-b)
+• Phikon-v2 [link](https://huggingface.co/owkin/phikon-v2)
+• GigaPath [link](https://github.com/prov-gigapath/prov-gigapath)
+• PathOrchestra [link](https://huggingface.co/AI4Pathology/PathOrchestra)
+• UNI2-h [link](https://huggingface.co/MahmoodLab/UNI2-h)
+• PLIP [link](https://github.com/pathologyfoundation/plip)
+• CONCH [link](https://github.com/mahmoodlab/CONCH)
+• RedDino [link](https://github.com/Snarci/RedDino)
+• DINOBloom [link](https://github.com/marrlab/DinoBloom)
+• HistoEncoder (Small, Medium) [link](https://github.com/jopo666/HistoEncoder)
 
 ## Deep learning models
 
 ## Datasets
-
-
+- **`Hematology **`
+- **`Urology **`
+- **`Breast Cancer **`
 
 ## Citation
 
